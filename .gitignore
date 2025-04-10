@@ -1,0 +1,30 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temp files
+*.log
+*.csv
+*.sqlite
+
+# IDE/Editor config files
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+
+# Docker
+docker-compose.override.yml
+*.docker
